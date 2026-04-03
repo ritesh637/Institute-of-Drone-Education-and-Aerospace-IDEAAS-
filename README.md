@@ -1,0 +1,2 @@
+# Institute-of-Drone-Education-and-Aerospace-IDEAAS-
+Developed a modern and responsive drone training website for the Institute of Drone Education and Aerospace (IDEAAS) using **Next.js** and **Tailwind CSS**. Built dynamic course pages, interactive gallery, and functional contact forms to enhance user engagement. Optimized performance, ensured mobile responsiveness, and deployed the project onVercel
