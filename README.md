@@ -10,9 +10,7 @@
 
 ### 📸 Preview
 
-<p align="center">
-  <img src="./assets/ideaas-drone.png" alt="IDEAAS Drone Website Screenshot" width="85%">
-</p>
+
 
 ---
 
